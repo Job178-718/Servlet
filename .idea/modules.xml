@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01_firstStatic/01_firstStatic.iml" filepath="$PROJECT_DIR$/01_firstStatic/01_firstStatic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_Web/02_Web.iml" filepath="$PROJECT_DIR$/02_Web/02_Web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_Servlet接口文件/03_Servlet接口文件.iml" filepath="$PROJECT_DIR$/03_Servlet接口文件/03_Servlet接口文件.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_静态文件与动态文件优先顺序/04_静态文件与动态文件优先顺序.iml" filepath="$PROJECT_DIR$/04_静态文件与动态文件优先顺序/04_静态文件与动态文件优先顺序.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_Servlet路径/05_Servlet路径.iml" filepath="$PROJECT_DIR$/05_Servlet路径/05_Servlet路径.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_Servlet路径优先级/06_Servlet路径优先级.iml" filepath="$PROJECT_DIR$/06_Servlet路径优先级/06_Servlet路径优先级.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_Servlet生命周期/07_Servlet生命周期.iml" filepath="$PROJECT_DIR$/07_Servlet生命周期/07_Servlet生命周期.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08_HttpServletResponse/08_HttpServletResponse.iml" filepath="$PROJECT_DIR$/08_HttpServletResponse/08_HttpServletResponse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09SSM/09_Servlet远程查询JDBC.iml" filepath="$PROJECT_DIR$/09SSM/09_Servlet远程查询JDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10_Request请求对象/10_Request请求对象.iml" filepath="$PROJECT_DIR$/10_Request请求对象/10_Request请求对象.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Java.iml" filepath="$PROJECT_DIR$/Java/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../beauty_ssm/beauty_ssm-master/beauty_ssm.iml" filepath="$PROJECT_DIR$/../beauty_ssm/beauty_ssm-master/beauty_ssm.iml" />
+    </modules>
+  </component>
+</project>
